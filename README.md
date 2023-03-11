@@ -1,6 +1,7 @@
 # ANOTAÇÕES
+<a href="#links-legais"></a>
 
-## Links legais
+<h2 id="#links-legais">Links legais</h2>
 
 - Efeitos de transição com CSS
 ```
